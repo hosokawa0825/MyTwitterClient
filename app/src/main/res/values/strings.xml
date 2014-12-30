@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyTwitterClient</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="twitter_oauth">OAuth連携</string>
+    <string name="twitter_callback_url">gabu://twitter</string>
+    <string name="menu_refresh">更新</string>
+</resources>
